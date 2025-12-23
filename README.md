@@ -1,4 +1,4 @@
-# 🎬 The Blockbuster Formula: Data Analysis of Movie Success
+# Statistical Analysis of Factors Influencing Movie Profitability
 
 ## 📌 Project Overview
 This project explores the **TMDB 5000 Movie Dataset** to determine what factors drive box office success. By analyzing budgets, genres, and revenue streams, our team identifies actionable strategies for movie studios to maximize profit and minimize risk.
