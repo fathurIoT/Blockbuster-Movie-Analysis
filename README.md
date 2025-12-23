@@ -4,10 +4,10 @@
 This project explores the **TMDB 5000 Movie Dataset** to determine what factors drive box office success. By analyzing budgets, genres, and revenue streams, our team identifies actionable strategies for movie studios to maximize profit and minimize risk.
 
 ## 👥 Team Members
-* **[Member 1 Name]** - Team Lead & Report Writing
-* **[Member 2 Name]** - Data Engineering (Merging & Cleaning)
-* **[Member 3 Name]** - Financial Analysis & Visualization
-* **[Member 4 Name]** - Strategic Insights & Video Production
+* **MOHAMAD SYAHMI FIRDAUS BIN MOHD SAFIE** - Team Lead & Report Writing
+* **MUHAMAD AMIR FIQRI BIN MOHD ASMAR** - Data Engineering (Merging & Cleaning)
+* **MUHAMMAD SYAKIR BIN SALLEHUDDIN** - Financial Analysis & Visualization
+* **MOHD FATHURRAHMAN BIN MOHD FAIZAL** - Strategic Insights & Video Production
 
 ## 📊 Key Findings
 * **Money Matters:** There is a **0.70 correlation** between Budget and Revenue. High investment correlates with high returns.
